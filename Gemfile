@@ -5,3 +5,8 @@ gem "github-pages", "~> 214"
 gem "rake", "~> 13.0.3"
 gem "nokogiri", ">= 1.12.5"
 gem "addressable", ">= 2.8.0"
+# Gemfile
+
+gem 'csv'
+gem 'base64'
+gem 'bigdecimal'
